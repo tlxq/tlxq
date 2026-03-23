@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3178C6&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Tom+Larsson;Fullstack+Developer;React+%26+TypeScript+Enthusiast;System+Optimizer" alt="Typing SVG" />
   <br />
-  <img src="./assets/banner.gif" alt="Banner" width="200" />
+  <img src="./assets/banner2.png" alt="Banner" width="200" />
 </div>
 
 <p align="center">
@@ -81,3 +81,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tlxq&label=Profile%20Views&color=3178C6&style=flat-square" alt="Views" />
 </p>
+
+<div align="center">
+  <img src="./assets/octocat.png" alt="octocat" width="400" />
+  <p><b>since 92</b></p>
+</div>
