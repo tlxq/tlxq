@@ -11,16 +11,16 @@
 
 ---
 
-### 🚀 At a Glance
+###  At a Glance
 
 - 🔭 **Working on:** High-performance React architectures and scalable Node.js backends.
 - 🌱 **Mastering:** Advanced TypeScript patterns, Docker orchestration, and CI/CD pipelines.
 - 💬 **Ask me about:** Frontend architecture, Linux system optimization, or modern DX.
-- 📫 **Reach me:** [tom@ttdevs.com](mailto:tom@ttdevs.com) | [tlxq.dev](https://tlxq.dev)
+- 📫 **Reach me:** [tom@ttdevs.com](mailto:tom@ttdevs.com) | [ttdevs.com](https://ttdevs.com) | [tlxq.dev](https://tlxq.dev)
 
 ---
 
-### 🛠️ My Tech Toolbox
+###  My Tech Toolbox
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,11 +30,11 @@
 
 ---
 
-### 📊 Performance Metrics
+###  Performance Metrics
 
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tlxq&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&count_private=true" height="180" alt="Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlxq&layout=compact&theme=tokyonight&hide_border=true&title_color=3178C6&count_private=true" height="180" alt="Top Langs" />
 </p>
 
