@@ -1,0 +1,11 @@
+# Repo kit (~/.1dot/kit): `mise run check` is what pre-push runs, `mise run format` what pre-commit runs.
+[tools]
+
+[tasks.check]
+description = "Everything pre-push runs"
+# a README and images only: nothing to build; the commit hooks (secrets, public-guard) are the guard
+run = "test -s README.md"
+
+[tasks.format]
+description = "Format the files given (pre-commit passes the staged ones and restages them)"
+run = "true"
